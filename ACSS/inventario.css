@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+ul{
+    color: white;
+    text-align: center;
+
+}
+h2{
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+thead{
+    color: rgb(0, 0, 0);
+}
+table{
+    background-color: rgb(0, 121, 0);
+    border: 1px solid #000000;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+}
+tbody{
+    background-color: rgb(255, 255, 255);
+}
+nav a{
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 121, 0);
+    color: #000000;
+}
